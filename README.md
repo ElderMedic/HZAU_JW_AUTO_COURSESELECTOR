@@ -1,13 +1,13 @@
-#华农正方教务选课/评教工具
+# 华农正方教务选课/评教工具
 
 forked from xiaohuanshu/zhengfang-xuanke
 
-1.8 update：修改了登陆url
+# 1.8 update：修改了登陆url
 
-# python2.7 required 
+python2.7 required 
 
 
-#original readme.md below
+# original readme.md below
 
 # zhengfang-xuanke
 正方教务系统刷课/评价工具
